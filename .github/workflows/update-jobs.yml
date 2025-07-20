@@ -43,8 +43,21 @@ jobs:
         python -m pip list
         echo "Python path:"
         python -c "import sys; print('\n'.join(sys.path))"
-        echo "Verifying installations:"
-        python -c "import jobspy; print('✅ jobspy imported successfully')"
+        echo "Debugging jobspy installation:"
+        python -c "import site; print('Site packages:', site.getsitepackages())"
+        ls -la /opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/ | grep -i jobspy
+        echo "Trying to find jobspy files:"
+        find /opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/ -name "*jobspy*" -type d
+        find /opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/ -name "*jobspy*" -type f
+        echo "Reinstalling jobspy with force:"
+        python -m pip install --force-reinstall --no-cache-dir jobspy==0.31.0
+        echo "Trying GitHub install as alternative:"
+        python -m pip install --force-reinstall git+https://github.com/Bunsly/JobSpy.git || echo "GitHub install failed, continuing..."
+        echo "Checking site-packages directory:"
+        ls -la /opt/hostedtoolcache/Python/3.11.13/x64/lib/python3.11/site-packages/ | head -20
+        echo "Final verification attempts:"
+        python -c "import sys; print('Python executable:', sys.executable)"
+        python -c "import jobspy; print('✅ jobspy imported successfully')" || echo "❌ jobspy import failed"
         python -c "import pandas; print('✅ pandas version:', pandas.__version__)"
         python -c "import tabulate; print('✅ tabulate version:', tabulate.__version__)"
     
