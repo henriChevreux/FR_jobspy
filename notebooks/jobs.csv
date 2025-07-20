@@ -1,0 +1,982 @@
+"id","site","job_url","job_url_direct","title","company","location","date_posted","job_type","salary_source","interval","min_amount","max_amount","currency","is_remote","job_level","job_function","listing_type","emails","description","company_industry","company_url","company_logo","company_url_direct","company_addresses","company_num_employees","company_revenue","company_description","skills","experience_range","company_rating","company_reviews_count","vacancy_count","work_from_home_type"
+"in-362607b2693415ab","indeed","https://fr.indeed.com/viewjob?jk=362607b2693415ab","https://besedo.com/company/career/?jobid=298436","AI & Data Science Intern (Apprenticeship / Alternance)","Besedo Paris","Paris, A8, FR","2025-07-18","internship","","","","","",True,"","","","","**Who we are**
+--------------
+
+
+
+Besedo is a global leader in content moderation tools and services to online marketplaces around the world. Every year, we review and moderate over 500 million pieces of user\\-generated content and block 40 million fraud attempts. Besedo has headquarters in Stockholm (Sweden) and employs over 400 employees in 6 offices in different continents. Implio is our all\\-in\\-one SaaS moderation tool which combines state\\-of\\-the\\-art AI (deep learning, NLP, computer vision models) with a powerful user interface for human moderation and statistics. The result is an easy\\-to\\-use content moderation solution that leading classified, dating and sharing economy sites from all around the world love and trust. For more information, you check out our videos as well as our website. This position is in Paris R\\&D team. You will work with a team of talented Developers, Data Scientists and Customer Success Managers who are passionate about their work and like to have fun in the process. Come and make internet better and safer with us!
+
+
+**Your mission**
+----------------
+
+
+
+As an intern of our Data Science team, you will help us improve our current deep learning models and data science pipeline. You will learn a lot of new things by executing new challenging projects in Natural Language Processing (NLP) and Computer Vision:
+
+
+* Train \\& hyper\\-optimize deep models
+* Benchmark and compare performance of trained models
+* Perform data exploration, feature engineering and data transformation
+* Read and reproduce current research papers
+* Research, adapt, improve state\\-of\\-the\\-art models for our use cases
+
+
+You will be working in close collaboration with other Data Scientists and a mentor will supervise you progressing in your tasks.
+
+
+**Profile We’re Looking For**
+-----------------------------
+
+
+* Enrolled in a **Bachelor’s/Master’s** program in Computer Science, AI, Data Science, or related fields
+* Strong Python skills (experience with libraries such as PyTorch, HuggingFace, or scikit\\-learn is a plus)
+* Familiar with basic concepts in machine learning, deep learning, or NLP
+* Comfortable working with **Linux**, Git
+* Interest in **ethical AI**, online safety, or content moderation
+* Proactive, curious, and collaborative mindset
+* Proficient in spoken and written English (French is a plus but not mandatory)
+
+**✅ What We Offer**
+-------------------
+
+
+* Flexible hours and remote work options
+* Access to co\\-working space in Paris
+* A supportive and inclusive work environment
+* Opportunity to work on **real production systems**
+* Access to compute resources, modern ML tooling, and expert mentorship
+* Exposure to **multinational clients and platforms**","","https://fr.indeed.com/cmp/Besedo-Paris","","","","","","","","","","","",""
+"in-ffd94d6e0bd5d98c","indeed","https://fr.indeed.com/viewjob?jk=ffd94d6e0bd5d98c","http://fr.indeed.com/job/ai-engineer-ingenieur-ia-hf-ffd94d6e0bd5d98c","AI ENGINEER - INGENIEUR IA H/F","Pro'G Traiteur","Moissy-Cramayel, A8, FR","2025-07-18","fulltime","","","","","",False,"","","","","Vous êtes passionné(e) par l’intelligence artificielle, curieux(se), rigoureux(se), et souhaitez mettre vos compétences au service d’une entreprise innovante dans le secteur de l’événementiel et de la gastronomie ?  
+PRO’G Traiteur vous ouvre ses portes !
+
+Poste ouvert aux jeunes diplômé(e)s motivé(e)s comme aux profils plus expérimentés, prêts à s’investir dans un projet structurant, humain et stimulant.
+
+**Vos missions principales :**
+
+* Développer et déployer des solutions d’IA pour automatiser et optimiser les processus internes (planning, logistique, prévisions, etc.)
+* Collaborer avec les équipes opérationnelles pour comprendre les besoins métier et traduire ces besoins en algorithmes efficaces
+* Mettre en place des outils de traitement de données (analyse, prédiction, visualisation)
+* Participer à la conception d’outils d’aide à la décision (ex : prévisions de flux, suggestions de production)
+* Garantir la fiabilité, la sécurité et la performance des solutions développées
+* Assurer une veille technologique constante sur les dernières avancées en IA appliquée
+
+**Profil recherché :**
+
+* Formation en informatique, data science ou intelligence artificielle (bac\\+3 à bac\\+5\\)
+* Maîtrise de Python et des bibliothèques IA (TensorFlow, PyTorch, scikit\\-learn…)
+* Bonnes connaissances en modélisation de données, machine learning et/ou deep learning
+* Capacité à travailler en autonomie tout en collaborant avec des équipes pluridisciplinaires
+* Esprit analytique, rigueur, curiosité et envie de construire des solutions utiles et concrètes
+* Une première expérience en IA (stage ou projet personnel/professionnel) est un atout
+
+Conditions :
+
+* CDI – Temps plein
+* Salaire : 2 500 € net / mois
+* Horaires Lundi au Vendredi de 9h à 17h et le jeudi 9h à 16h
+* Prise de poste : dès que possible
+
+**Pourquoi rejoindre PRO’G Traiteur ?**
+
+Parce qu’ici, l’innovation et l’humain vont de pair.  
+Parce que nous croyons que l’IA peut rendre notre métier encore plus performant, durable et précis.  
+Parce que nous valorisons la bienveillance, l’écoute, l’autonomie et l’engagement.  
+Parce que vous travaillerez sur des projets concrets, dans une structure à taille humaine, en plein développement.
+
+**Rejoignez une entreprise où la technologie rencontre la passion du goût.**  
+**Construisons ensemble l’avenir de l’événementiel intelligent.**
+
+Candidature (CV \\+ lettre ou projet marquant) à envoyer directement via Indeed.
+
+Type d'emploi : Temps plein, CDI
+
+Rémunération : 2 500,00€ par mois
+
+Horaires :
+
+* Du lundi au vendredi
+* Période de travail de 8 Heures
+* Travail en journée
+
+Lieu du poste : En présentiel","","https://fr.indeed.com/cmp/Pro'g-Traiteur","","","","","","","","","","","",""
+"in-7ba72ab5fe865df0","indeed","https://fr.indeed.com/viewjob?jk=7ba72ab5fe865df0","https://taleez.com/apply/machine-learning-engineer-specialise-en-computer-vision-labege-pictarine-cdi?utm_source=Indeed","Machine Learning Engineer spécialisé en Computer Vision","Pictarine","Labège, O, FR","2025-07-11","fulltime","","","","","",False,"","","","","**Who we are**  
+
+Pictarine, c’est l’ambition de créer une expérience d’impression photo instantanée.
+
+
+Depuis 2010, notre scale\\-up 100% toulousaine bouscule les codes de l’édition et de l’impression photo aux États\\-Unis.
+
+
+Grâce à nos applications mobiles et web réalisées avec les dernières tendances technologiques, nous permettons à nos clients de commander leurs plus beaux souvenirs en quelques clics.
+  
+
+Notre objectif : permettre de récupérer ses photos en moins d’une heure chez nos partenaires Walgreens et CVS. Et nous ne comptons pas nous limiter aux US !
+
+
+En tant que Product Company, nous créons des produits toujours plus innovants.
+
+
+Nos équipes, passionnées et déterminées, relèvent chaque défi technique, explorent de nouveaux horizons et travaillent ensemble pour rendre l’impossible possible.
+
+
+Alors, prêt à rejoindre l’aventure de création de souvenirs mémorables avec Pictarine ?
+
+**Description du poste**
+------------------------
+
+**Mission and challenges**  
+
+  
+
+Rejoins notre équipe AI pour repousser les limites de la computer vision au service de nos utilisateurs.
+  
+
+Concevoir de nouvelles solutions techniques pour sublimer leurs photos et les accompagner dans leurs choix. Grâce à toi, leurs souvenirs deviendront encore plus mémorables.  
+
+Si tu veux avoir un impact concret, exploiter les dernières avancées en computer vision et contribuer à un produit utilisé par des millions de personnes, cette mission est faite pour toi !
+
+
+Concrètement, au quotidien, tu seras responsable de :  
+
+  
+
+**Concevoir des solutions de Computer Vision**
+
+* Tu concevras, implémenteras, et optimiseras des algorithmes avancés en vision par ordinateur pour analyser et améliorer les images utilisateurs.
+* Tu sais traduire les besoins en spécifications techniques (du micro à l’architecture)
+* Tu t'impliqueras dans les différentes étapes des chantiers : de la conception à l'analyse de résultats en fonction des besoins
+* Tu challengeras les choix de conception proposés par l’équipe en apportant des solutions plus pertinentes si nécessaire et en étant force de proposition
+
+**Effectuer un travail d’exploration permanent**
+
+* On compte sur toi pour réaliser une veille technologique active (news, billets scientifiques, etc.) dans le but de donner un coup d’avance à Pictarine en anticipant les nouveautés technologiques qui arrivent
+* Tu créeras des prototypes (démo, etc.) à présenter au reste de l’équipe (Engineering, Produit, etc.) ayant vocation à identifier de futures opportunités produit
+* Tu pourras animer l’enrichissement de la culture tech de l’équipe en partageant sa veille technologique avec les autres développeurs
+
+**Impacter côté delivery**
+
+* Tu participeras au déploiement des modèles dans nos apps de production, sur device ou côté Cloud, sous forme d’expérimentations rapides ou de fonctionnalités implémentées de manière complète et soignée
+* Tu mettras en place et géreras les pipelines MLOps pour l'automatisation de l’entraînement, de l’évaluation, du déploiement et du monitoring continu des modèles
+* Tu prioriseras les chantiers techniques pour donner de la visibilité à l’équipe et à l’organisation.
+* Tu meneras une veille technologique régulière pour nourrir les réflexions stratégiques et inspirer l’équipe sur les dernières pratiques en termes de Machine Learning et de Computer Vision.
+* Tu surveilleras quotidiennement les métriques opérationnelles (business, produit, technique)
+
+**Contribuer à la montée en compétence technique de l’équipe**
+
+* Tu contribueras à la montée en compétence des ingénieurs de l’équipe en challengeant leurs livrables, via du pair programming et en assurant une diffusion des principes techniques sur lesquels reposent les bonnes pratiques à mettre en place
+* Tu contribueras à formaliser les principes et les bonnes pratiques à appliquer à l’échelle de l’équipe, créer des repères permettant l’intégration de nouveaux développeurs.
+
+**Profil recherché**
+--------------------
+
+**About you**
+
+* **Tu justifies de 4 ans d'expériences** en **Machine Learning** et les techniques de **Computer Vision** n'ont plus de secrets pour toi.
+* **Tu participeras** activement à l’implémentation de fonctionnalités aux niveaux requis de qualité et de polish, aussi bien pour nos apps de prod que pour nos outils internes.
+* **Tu maîtrises** de **manière avancée** Python ou C\\+\\+, des frameworks de **Machine Learning** (PyTorch, TensorFlow, …), **de traitement d’images** (OpenCV, Pillow, …), de conversion de modèles (TorchScript, CoreML, ONNX, …).
+* Tusais **entraîner, optimiser et mettre en production** un modèle de machine learning de bout en bout : de l’idéation à la mise à disposition des développeurs et des utilisateurs.
+* **Tu maîtrises les techniques traditionnelles de Computer Vision** : amélioration de qualité, analyse, évaluation.
+* Tu es capable de définir, implémenter et monitorer une **solution Cloud** pour rendre accessible des modèles de manière stable, performante et scalable.
+* Tu es encapacité de **mentorer et motiver l’équipe** dans un cadre bienveillant, tout en maintenant un haut niveau d’exigence technique.
+* Tu comprends les enjeux globaux et tu es en capacité de proposer une trajectoire technique cohérente avec les priorités business.
+* Tu sais **vulgariser des sujets techniques complexes**, que ce soit à l’écrit ou à l’oral, pour des publics variés.
+* Tu sais **accompagner** les membres de l’équipe dans leur développement, **partager** ton expertise, et **favoriser** la collaboration inter\\-équipes.
+* Tu **incarneras** un modèle de qualité, d’éthique et de professionnalisme dans tous les aspects du rôle.
+* Tu **anticiperas** les enjeux techniques, proposeras des améliorations et exploreras de nouvelles approches pour renforcer les outils et la proposition de valeur.
+
+ **Work @ Pictarine✨**
+* Un environnement de travail agile, collaboratif, international et multiculturel
+* Des perspectives d’évolution rapides
+* Des locaux tout beaux à Labège avec du matériel dernier cri (mais aussi des snacks à profusion et un frigo à boissons toujours bien rempli)
+* Un apprentissage permanent : conférence, meet\\-up, Pictarine Academy, cours d’anglais.
+* Des évents tous les mois : massage, pilates, TGIF, team building.
+* Un environnement de travail flexible.
+* Un package de rémunération attractif : salaire compétitif, RTT, mutuelle \\& prévoyance 100% prise en charge, intéressement.
+
+Des petits \\+ : Développement de photos gratuit, subvention sport, 3 jours “entraide familiale”, jours de congés en plus avec l'ancienneté...* on ne te dévoile pas tout !
+* Package de relocalisation : inclut une prime d'installation et une assistance à l'installation à Toulouse.
+
+ **Recruitment process** ️  
+
+Tu souhaites nous rejoindre ? Viens rencontrer les gens avec qui tu vas travailler :
+
+* **1ᵉʳ échange** pour apprendre à se connaître avec Maxime (20’)
+* **Entretien Manager** avec 2 managers/membres de l'équipe Pictarine(90’)
+* **Test pratique** afin de nous montrer tes talents (durée selon test)
+* **Entretien final** avec deux membres du COMEX (90’)
+* **Welcome aboard !**
+
+*Pictarine s'engage pour la diversité et l'égalité des chances. Tous nos postes sont ouverts à toutes et à tous, indépendamment du genre, de l'expérience ou du handicap.*
+
+
+  
+
+E1","","https://fr.indeed.com/cmp/Pictarine-1","","","","","","","","","","","",""
+"in-ecbe933972fecbd6","indeed","https://fr.indeed.com/viewjob?jk=ecbe933972fecbd6","https://taleez.com/apply/lead-machine-learning-engineer-labege-pictarine-cdi?utm_source=Indeed","Lead Machine Learning Engineer","Pictarine","Labège, O, FR","2025-07-11","fulltime","","","","","",False,"","","","","**Who we are**  
+
+Pictarine, c’est l’ambition de créer une expérience d’impression photo instantanée.
+
+
+Depuis 2010, notre scale\\-up 100% toulousaine bouscule les codes de l’édition et de l’impression photo aux États\\-Unis.
+
+
+Grâce à nos applications mobiles et web réalisées avec les dernières tendances technologiques, nous permettons à nos clients de commander leurs plus beaux souvenirs en quelques clics.
+  
+
+Notre objectif : permettre de récupérer ses photos en moins d’une heure chez nos partenaires Walgreens et CVS. Et nous ne comptons pas nous limiter aux US !
+
+
+En tant que Product Company, nous créons des produits toujours plus innovants.
+
+
+Nos équipes, passionnées et déterminées, relèvent chaque défi technique, explorent de nouveaux horizons et travaillent ensemble pour rendre l’impossible possible.
+
+
+Alors, prêt à rejoindre l’aventure de création de souvenirs mémorables avec Pictarine ?
+
+**Description du poste**
+------------------------
+
+**Mission and challenges**  
+
+  
+
+Rejoins notre équipe AI pour repousser les limites de la computer vision au service de nos utilisateurs.
+  
+
+Concevoir de nouvelles solutions techniques pour sublimer leurs photos et les accompagner dans leurs choix. Grâce à toi, leurs souvenirs deviendront encore plus mémorables.  
+
+Si tu veux avoir un impact concret, exploiter les dernières avancées en computer vision et contribuer à un produit utilisé par des millions de personnes, cette mission est faite pour toi !
+
+
+Concrètement, au quotidien, tu seras responsable de :  
+
+  
+
+**Expertise technique**
+
+* Concevoir et piloter des projets complexes à fort impact, depuis la conception jusqu’à la mise en production.
+* Veiller à la qualité, à la performance et à la maintenabilité des solutions en place.
+* Participer activement à la définition des standards techniques, de modélisation, de documentation et de tests.
+
+**Responsable de la qualité et de la fiabilité technique**
+
+* Définir et faire respecter les bonnes pratiques et guidelines de développement (structuration des projets, conventions, tests, CI/CD, monitoring).
+* Mettre en place les outils et routines nécessaires pour suivre la qualité des projets en production et anticiper les incidents.
+* Identifier les risques techniques et définir des stratégies de dérisquage pertinentes.
+
+**Leader technique**
+
+* Accompagner les ML Engineers (Régis et Erwan) dans la montée en compétence, la structuration et l’exécution de leurs projets.
+* Challenger les choix d’architecture, les découpages et les estimations des chantiers techniques.
+* Prioriser les chantiers techniques pour donner de la visibilité à l’équipe et à l’organisation.
+* Mener une veille technologique régulière pour nourrir les réflexions stratégiques et inspirer l’équipe sur les dernières pratiques en termes de Machine Learning et de Computer Vision.
+
+**Profil recherché**
+--------------------
+
+**About you**
+
+* **Tu justifies de 8 ans d’expérience** en **Machine Learning** et que les techniques de **Computer Vision** n'ont plus de secrets pour toi.
+* **Tu participeras** activement à l’implémentation de fonctionnalités aux niveaux requis de qualité et de polish, aussi bien pour nos apps de prod que pour nos outils internes.
+* **Tu maîtrises** de **manière avancée** Python ou C\\+\\+, des frameworks de **Machine Learning** (PyTorch, TensorFlow, …), **de traitement d’images** (OpenCV, Pillow, …), de conversion de modèles (TorchScript, CoreML, ONNX, …).
+* Tusais **entraîner, optimiser et mettre en production** un modèle de machine learning de bout en bout : de l’idéation à la mise à disposition des développeurs et des utilisateurs.
+* **Tu maîtrises les techniques traditionnelles de Computer Vision** : traitement d’image, détection, segmentation, analyse, évaluation.
+* Tu es capable de définir, implémenter et monitorer une **solution Cloud** pour rendre accessible des modèles de manière stable, performante et scalable.
+* Tu es encapacité de **guider et motiver l’équipe** dans un cadre bienveillant, tout en maintenant un haut niveau d’exigence technique.
+* Tu comprends les enjeux globaux et tu es en capacité de proposer une trajectoire technique cohérente avec les priorités business.
+* Tu sais **vulgariser des sujets techniques complexes**, que ce soit à l’écrit ou à l’oral, pour des publics variés.
+* Tu sais **accompagner** les membres de l’équipe dans leur développement, **partager** ton expertise, et **favoriser** la collaboration inter\\-équipes.
+* Tu **incarneras** un modèle de qualité, d’éthique et de professionnalisme dans tous les aspects du rôle.
+* Tu **anticiperas** les enjeux techniques, proposeras des améliorations et exploreras de nouvelles approches pour renforcer les outils et la proposition de valeur.
+
+ **Work @ Pictarine✨**
+* Un environnement de travail agile, collaboratif, international et multiculturel
+* Des perspectives d’évolution rapides
+* Des locaux tout beaux à Labège avec du matériel dernier cri (mais aussi des snacks à profusion et un frigo à boissons toujours bien rempli)
+* Un apprentissage permanent : conférence, meet\\-up, Pictarine Academy, cours d’anglais.
+* Des events tous les mois : massage, pilates, TGIF, team building .
+* Un environnement de travail flexible.
+* Un package de rémunération attractif : salaire compétitif, RTT, mutuelle \\& prévoyance 100% prise en charge, intéressement.
+
+Des petits \\+ : Développement de photos gratuit, subvention sport, 3 jours “entraide familiale”, jours de congés en plus avec l'ancienneté...* on ne te dévoile pas tout !
+* Package de relocalisation : inclut une prime d'installation et une assistance à l'installation à Toulouse.
+
+ **Recruitment process** ️  
+
+Tu souhaites nous rejoindre ? Viens rencontrer les gens avec qui tu vas travailler :
+
+* **1ᵉʳ échange** pour apprendre à se connaître avec Maxime (20’)
+* **Entretien Manager** avec 2 managers/membres de l'équipe Pictarine(90’)
+* **Test pratique** afin de nous montrer tes talents (durée selon test)
+* **Entretien final** avec deux membres du COMEX (90’)
+* **Welcome aboard !**
+
+*Pictarine s'engage pour la diversité et l'égalité des chances. Tous nos postes sont ouverts à toutes et à tous, indépendamment du genre, de l'expérience ou du handicap.*
+
+
+  
+
+E1","","https://fr.indeed.com/cmp/Pictarine-1","","","","","","","","","","","",""
+"in-8af2d3262b512c09","indeed","https://fr.indeed.com/viewjob?jk=8af2d3262b512c09","https://careers.criteo.com/en/jobs/r14933/machine-learning-engineer-intern/","Machine Learning Engineer Intern","Criteo","Paris, A8, FR","2025-07-10","internship","","","","","",False,"","","","","**Hybrid**+ 
+
+**Paris, France****Grenoble, France****Engineering****Internship**
+
+  
+**Job ID:** r14933
+
+
+What if, in your next adventure, you were surrounded by people who, like you, look for an unlimited playground to explore, share, and test, would you care to hear more? You've opened the right door! As an R\\&D team, making sure your ideas are heard and encouraged is what we strive to do!### **What You'll Do:**
+
+
+In a team, you will be working closely with your mentor to drive your project, design and ensure best practices are applied. You can ask questions and participate in all knowledge sharing sessions/workshops, etc. You are encouraged to actively voice your ideas whilst learning how to build and ship quality code into production which will likely affect millions of users instantly. Identify key problems, devise solutions, build prototypes, and stay current on published state\\-of\\-the\\-art algorithms. Gather and mine large data sets for turning them into understandable and actionable insights to ensure Criteo remains one step ahead of competitive threats. You will develop high\\-performance algorithms, test and implement the algorithms in scalable, product\\-ready code.
+
+
+Projects you could work on:
+
+* Technical improvements in product recommendation engine and its APIs.
+* Using Machine Learning models to predict the affinity of a user with certain category of products or with a certain brand.
+* Improving the current models we have in production, which might include (amongst others) feature and model engineering, offline evaluation and online testing of the models.
+* Extracting product attributes from information provided by our advertisers.
+* Contribute to the stream of studies around the fairness of AI\\-driven advertisement (e.g. studying the behavior of our platform, propose and implement fixes, etc.)
+
+### **Who You Are:**
+
+* You are currently in your last year of Bsc/Msc degree in a quantitative field (Engineering, Mathematics, Statistics, Computer Science).
+* Experience with traditional and modern statistical learning techniques and you are proficient at processing data.
+* Implementation experience with high\\-level languages, such as Python, Scala, Java, C\\*.
+* Good communication skills in English.
+
+
+We acknowledge that many candidates may not meet every single role requirement listed above. If your experience looks a little different from our requirements but you believe that you can still bring value to the role, we’d love to see your application!
+
+
+### **Who We Are:**
+
+
+Criteo is the global commerce media company that enables marketers and media owners to deliver richer consumer experiences and drive better commerce outcomes through its industry leading Commerce Media Platform.
+
+
+At Criteo, our culture is as unique as it is diverse. From our offices around the world or from home, our incredible team of 3,600 Criteos collaborates to develop an open and inclusive environment. We seek to ensure that all of our workers are treated equally, and we do not tolerate discrimination based on race, gender identity, gender, sexual orientation, color, national origin, religion, age, disability, political opinion, pregnancy, migrant status, ethnicity, marital or family status, or other protected characteristics at all stages of the employment lifecycle including how we attract and recruit, through promotions, pay decisions, benefits, career progression and development. We aim to ensure employment decisions and actions are based solely on business\\-related considerations and not on protected characteristics. As outlined in our Code of Business Conduct and Ethics, we strictly forbid any kind of discrimination, harassment, mistreatment or bullying towards colleagues, clients, suppliers, stakeholders, shareholders, or any visitors of Criteo. All of this supports us in our mission to power the world’s marketers with trusted and impactful advertising encouraging discovery, innovation and choice in an open internet.
+
+### **Why Join Us:**
+
+
+At Criteo, we take pride in being a caring culture and are committed to providing our employees with valuable benefits that support their physical, emotional and financial wellbeing, their interests and the important life events. We aim to create a place where people can grow and learn from each other while having a meaningful impact. We want to set you up for success in your job, and an important part of that includes comprehensive perks \\& benefits. Benefits may vary depending on the country where you work and the nature of your employment with Criteo. When determining compensation, we carefully consider a wide range of job\\-related factors, including experience, knowledge, skills, education, and location. These factors can cause your compensation to vary.
+
+
+  
+**Perks \\& Benefits for all Criteos.**
+--------------------------------------
+
+
+Happy people make healthy teams, so we value employee well\\-being above all else. Discover the perks \\& benefits we offer all our Criteos!
+
+
+### **Flexible Work**
+
+
+We believe flexibility and trust are key to building work around your life, and not the other way around. So, you should be free to choose where you work best. Whether you prefer the office or the comfort of your own home, we committ to providing seamless working conditions for all.
+
+  
+
+### **Learning \\& Career Development**
+
+
+As your skills multiply, opportunities do too. So, we care to help you nurture your potential, identify new goals, and define what you want out of your career. Discover how we have diversified our learning resources and training catalog for you to shape greater opportunities. You care for your career growth, and we do too.
+
+  
+
+### **Corporate Social Responsibility**
+
+
+We care to build an open future for our community and beyond. Discover how our people fuel our Corporate Social Responsibility from the bottom up, embracing but also embodying and promoting values of diversity, equity, and inclusion through everything they do. Together, we strive to build a future that truly includes everyone.
+
+  
+
+GREAT PEOPLE **shape greater opportunities.**
+---------------------------------------------
+
+
+At Criteo, we believe great people and reliable products are essential to build an open future for all.
+Everything you need to know about our culture, vision, values, and how we live them with people, both in and out of Criteo, is in our Culture Book. Discover who we are, what we do, and how we act as a company and as Criteos!
+**Our culture****Meet our Criteos in France!**
+-------------------------------
+
+
+Criteo came to spring off of a few great minds, back in 2005\\. From the start\\-up incubator to the global company we are now, Criteo has grown, standing now for 37 offices and further coworking spaces across the globe. In France, we welcome around 1,000 Criteos in our two spacious and collaborative hubs of Paris and Grenoble.
+
+  
+
+**The Future** IS YOURS**.**
+----------------------------","","https://fr.indeed.com/cmp/Criteo","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/0c6adf0ef11b4191b419c9f0fbdd08a5","http://www.criteo.com","Paris","1,001 to 5,000","$1B to $5B (USD)","Our mission is to power the world’s marketers and media owners with trusted and impactful advertising.","","","","","",""
+"in-b88cd97d92cf6e05","indeed","https://fr.indeed.com/viewjob?jk=b88cd97d92cf6e05","https://careers.ey.com/ey/job/Paris-AI-Product-Manager-75009/1221675501/?feedId=338701&utm_source=Indeed&utm_campaign=EY_indeed","AI Product Manager","EY","Paris, A8, FR","2025-07-07","","","","","","",False,"","","","","Vous intégrerez notre tribu AI Engineering en tant que Product Manager spécialisé en intelligence artificielle, pour intervenir sur des projets à fort impact dans des secteurs variés (énergie, luxe, services, santé, industrie…). Vous serez responsable du bon déroulé des projets, de l’expression de besoin à la mise en production, en lien étroit avec nos équipes IA, data, design et métier.
+
+ **Missions principales :**
+
+* Piloter la livraison de projets IA de bout en bout (périmètre, planning, budget, qualité), en coordonnant les équipes de delivery IA.
+* Recueillir et formaliser les besoins métiers, rédiger les user stories et définir les critères d’acceptation.
+* Planifier et prioriser les roadmaps produit en alignement avec les enjeux business.
+* Animer les rituels agiles : daily, sprint planning, rétrospective, démo…
+* Assurer le reporting projet : suivi de performance, communication vers les sponsors, remontée des risques.
+* Adapter les pratiques et méthodes agiles au contexte projet pour maximiser la valeur délivrée.
+
+ **Profil recherché :**
+
+
+De formation Bac\\+5, vous justifiez d’une solide expérience dans la gestion de projet tech/data et dans la mise en œuvre de produits IA.
+
+ **Compétences techniques requises :**
+
+* Très bonne maîtrise des méthodologies agiles (Scrum, Kanban, Lean).
+* Aisance avec les outils de gestion de projet (Jira, Confluence, Miro…).
+* Capacité à dialoguer avec des équipes pluridisciplinaires (data scientists, développeurs, designers, métiers…).
+* Connaissance des principaux cas d’usage en IA générative (RAG, fine\\-tuning, agents conversationnels…).
+* Expérience confirmée dans le pilotage de delivery tech/data avec une forte orientation produit.
+
+ **Qualités personnelles :**
+
+* Excellente organisation, rigueur, autonomie.
+* Esprit d’équipe et sens du relationnel client.
+* Leadership naturel, proactivité.
+* Curiosité, sens de l’innovation, envie de faire progresser les équipes.
+* Bon niveau d’anglais technique et professionnel.
+
+ **Vivez l’expérience EY Consulting, rejoignez\\-nous !**
+
+
+Chez EY, un job n’est pas qu’un simple emploi. Nous mettons un point d’honneur à offrir à nos collaborateurs une expérience marquante, qui les accompagnera tout au long de leur carrière :
+
+
+Vous travaillerez pour les plus grands clients internationaux, leaders dans leurs secteurs, au sein d’équipes diverses et multiculturelles.
+
+
+Vous bénéficierez d’un programme de formation complet et personnalisé, avec un mentor dédié.
+
+
+Vous appartiendrez à des communautés de compétences et sectorielles internationales, composées de professionnels parmi les meilleurs en Europe.
+
+
+Vous contribuerez à un conseil « zéro carbone », EY plaçant la RSE au cœur de sa stratégie (zéro papier, outils de calcul d’impact, usages numériques responsables…).
+
+
+Vous pourrez bénéficier de mobilités géographiques et découvrir d’autres cultures grâce à notre programme Mobility4U.
+
+
+Vous aurez l’opportunité de vous engager au sein de nos réseaux internes sur des thématiques liées à l’écologie, la diversité et l’inclusion, et de devenir mécène via notre fondation pour soutenir de grandes causes à impact.
+
+
+Vous participerez à de nombreux événements “made in EY” (Prix de l’Entrepreneur de l’Année, Woman In, T\\-DAY, Sustainable Futures, etc.).
+
+ **Diversité, Équité et Inclusion :** EY étudie, à compétences égales, toutes les candidatures, y compris celles de personnes en situation de handicap.
+
+ **A propos :**
+
+
+Créée en 2003, FABERNOVEL est née de la conviction que la technologie peut bâtir un futur plus vertueux pour les entreprises et la société. Depuis son intégration à EY Consulting, EY FABERNOVEL combine son expertise en transformation numérique et en création de produits et services digitaux avec la force d’un réseau mondial, renforçant son rôle d’accélérateur de transitions.
+
+
+EY FABERNOVEL accompagne ses clients dans leurs transitions numérique et écologique afin de bâtir un avenir plus durable, au travers de 3 domaines d’expertise :
+
+* Design for Sustainable Future
+* Digital \\& IA Engineering
+* Digital \\& Data Driven Marketing
+
+
+Nos équipes, organisées en squads projets Agile, mobilisent les meilleures expertises et méthodologies afin de rendre nos clients plus autonomes. Nous travaillons avec de grands comptes, publics ou privés, et développons des produits au plus près de leurs besoins métier.
+
+
+Nos expertises Tech \\& Data/IA (Ingénieurs en IA, Data Scientists, Machine Learning Engineers, Développeurs Back, Front, Mobile, Designers d’expérience, Product Owners/Chefs de Projet) visent à :
+
+* Mettre l’IA et la data au cœur des décisions, en concevant des logiciels sur mesure et des modèles de valeur centrés sur les parties prenantes.
+* Produire des solutions sur mesure, grâce à des pratiques éprouvées et un socle technique affiné par la communauté Tech et Design.
+* Garantir un processus de delivery continu pour répondre aux enjeux du marché.
+
+
+Quelques références clients : Canal\\+, G7, RATP, Saint\\-Gobain, EDF, ENI, Caisse Nationale de Solidarité pour l’Autonomie, CNAM, Renault…","","https://fr.indeed.com/cmp/Ey","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/2138292378140570afde98e7103dbb54","https://www.ey.com","London, England","10,000+","more than $10B (USD)","At EY, we are committed to building a better working world.","","","","","",""
+"in-0592a987ad6a689f","indeed","https://fr.indeed.com/viewjob?jk=0592a987ad6a689f","https://jobs.lever.co/ippon/55745e22-4179-4d33-9eab-2c730a885ff5","AI/ML Engineer (H/F)","Ippon","Nantes, B5, FR","2025-07-01","fulltime","","","","","",False,"","","","","**À propos d'Ippon Technologies**  
+
+Depuis 2002, Ippon Technologies est à la pointe du conseil et de l'expertise technique. Spécialisés dans le développement logiciel et mobile, la data, l'IA, le cloud, ainsi que l'architecture et la stratégie IT, nous sommes fier·e·s de compter plus de 700 collaborateur·trice·s passionné·e·s à travers le monde. **Notre mission :** accompagner nos clients dans leur transformation digitale avec excellence technique, collaboration et esprit sportif, pour innover et dépasser les attentes.
+Cette culture du challenge et du dépassement se reflète autant dans nos missions que dans notre programme de formation, BlackBelt, inspiré des grades du judo et conçu pour faire progresser nos consultants étape par étape jusqu'à l’expertise. **Rejoins notre Champions League Data \\- IA**  
+
+Notre équipe Data rassemble 75 expert·e·s, dont 10 consultant·e·s en IA, engagé·e·s dans la création, le développement et le déploiement de solutions innovantes en Machine Learning et IA Générative dans le cloud public. Après avoir lancé nos activités en IA en 2023, nous passons à la vitesse supérieure cette année.  
+
+Pour accompagner cette dynamique, nous recherchons un·e ML Engineer confirmé·e (minimum 3 ans d'expérience) prêt·e à relever des défis techniques ambitieux et à contribuer à des projets à fort impact. **Ton Futur Métier** **En tant que ML ingénieur·e chez Ippon, tu auras pour missions de :*** Concevoir et développer des architectures AI/ML scalables dans le cloud public
+* Intégrer des modèles AI/ML dans des applications existantes
+* Mettre en place et optimiser des pipelines MLOps pour industrialiser des modèles
+* Implémenter des approches d’évaluation et de monitoring de modèles de ML ou de systèmes d’IA générative
+* Développer des solutions d’IA générative basées sur des LLM et des systèmes de RAG intégrant des bases de données vectorielles
+* Déployer des modèles personnalisés ou intégrer des modèles managés
+* Collaborer avec des équipes pluridisciplinaires (notamment Data Science, Data Engineering, DevOps et métier)
+* Participer à la veille technologique et suivre les évolutions et innovations en IA
+* Être sensibilisé·e et sensibiliser les clients aux aspects légaux ou éthiques de l’IA
+
+ **Notre écosystème technique*** Cloud public : AWS, GCP, Azure
+* Services et plateformes AI/ML : SageMaker, Bedrock, Vertex AI
+* MLOps : MLflow, Kubeflow
+* Orchestration : Airflow, MWAA, Step Functions, Cloud Composer, Cloud Workflows
+* CI/CD : GitLab, Terraform
+* Conteneurisation : Docker, Kubernetes
+* Déploiement : ECS, EKS, Lambda, Cloud Run, GKS, Cloud Functions
+* Développement : Python, FastAPI, Flask, LangChain, LlamaIndex
+* Bases vectorielles : PostgreSQL (pgvector), Elasticsearch / OpenSearch, Vertex AI Vector Search
+* Bonnes pratiques : Tests, Craftsmanship, Agilité
+
+**Un chemin de carrière bien tracé :**
+Vous serez accompagné(e) dans votre montée en compétences aussi bien technique que leadership grâce à notre programme BlackBelt (programme de formation continue : mentoring, formations, certifications).
+En tant que membre d’une communauté, vous pouvez avoir différents rôles :* Celui de Manager Technique (MT) : manager d’une équipe de 7 ingénieur(e)s Ippon (onboarding, suivi, accompagnement, mise en place d’objectifs…).
+* Vous conduirez les entretiens techniques en binôme
+* Responsable de l’accomplissement d’une ou plusieurs actions stratégiques de la CoreTeam Data
+* Devenir speaker
+
+ **Les avantages chez Ippon Technologies :*** Capitalisation des compétences : Conférences et formations internes régulières avec des primes à la clé.
+* Formation continue : 5 jours de destaffing par an pour se former sur de nouvelles technologies ou approfondir ses compétences.
+* Recrutement sur profil : Un recrutement adapté à votre parcours pour garantir votre épanouissement.
+* Programme BlackBelt : Un parcours personnalisé de montée en compétences, incluant missions, formations et certifications.
+* Rejoindre une entreprise où les valeurs du sport sont importantes : dépassement de soi, travail en équipe, bienveillance2 jours de télétravail par semaine
+* Des afterworks fréquents
+* Running, natation, et autres sports pendant ta pause avec tes collègues si tu le souhaites
+* Évènements à thème en fonction des saisons (1 fois par mois)
+
+ **Le processus de recrutement*** Un entretien RH (1h)
+* Un entretien technique avec un référent technique (1h30\\)
+* Un échange avec la Direction
+
+  
+
+Si tout est au vert des 2 côtés, plus qu'à signer votre contrat et vous voici membre de l'Ipponfamily !","","https://fr.indeed.com/cmp/Ippon-3","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/56dc57d37aad1d8f62b84d41022639b9","https://www.ippon.fr/","43 avenue de la Grande Armée, 
+75016 PARIS","501 to 1,000","$25M to $100M (USD)","","","","","","",""
+"in-15ff4d813106062a","indeed","https://fr.indeed.com/viewjob?jk=15ff4d813106062a","https://wiremind-1714146283.teamtailor.com/jobs/6115363-machine-learning-researcher-internship-paris","Machine Learning Researcher - Internship - Paris","Wiremind","Paris, A8, FR","2025-06-30","internship","","","","","",True,"","","","","Since 2014, Wiremind has positioned itself as a **technical company** transforming the world of transport and events with a 360° approach combining **UX, software, and AI**.
+
+
+Our expertise lies primarily in **optimizing and distributing** our clients' capacity. We work on various projects such as **ticket forecasting and pricing**, **3D optimization of air freight or scraping competitor prices**. Our applications are the preferred tool **of companies** such as SNCF, United Airlines, Qatar Airways or even PSG to visualize, analyze and optimize their capacity.
+
+
+Dynamic and ambitious, we strive to maintain our technical DNA which is the engine of our success. The company, profitable and self\\-financed since its creation 10 years ago, is mainly composed **of engineers and experts** and currently supports the growth of our **business model** based on ""software\\-as\\-a\\-service"" solutions.
+
+### **Your missions**
+
+At Wiremind, the **Data Science team** is responsible for the development, monitoring and evolution of all ML\\-powered forecasting and optimization algorithms in use in our Revenue Management systems.
+  
+
+  
+
+Our algorithms are divided in 2 parts:
+
+  
+
+* **A modelling of the unconstrained demand** using ML models (e.g.deep learning, boosted trees) trained on historical data in the form of time\\-series
+* **Constrained optimizations problems** solved using linear programming techniques.
+
+  
+
+You will be joining a team shaped to have all profiles necessary to constitute an autonomous department (devops, software and data engineering, data science, AIML, operational research).
+  
+
+  
+
+**There, under supervision of a Wiremind tutor and researchers from UBC (****https://www.ubc.ca/****), you will push the boundaries of state\\-of\\-the\\-art causal inference modeling for time series.**  
+
+  
+
+As a research intern, you will have the opportunity to contribute to innovative projects at the intersection of deep learning and causal modeling.  
+
+  
+
+You will be involved in topics such as:
+
+  
+
+* Leveraging causal inference methods like Regression Discontinuity Design or Orthogonal Learning to analyze and model complex demand patterns using time series data.
+* Developing state\\-of\\-the\\-art deep learning architectures to improve the accuracy of current best models while maintaining causality and elasticity.
+* Exploring the impact of pricing sequences on demand by modeling consumer behavior from a series of price changes instead of single adjustments.
+
+
+### **Technical stack:**
+
+* **Backend:** Python 3\\.11\\+ with SQLAlchemy
+* **Orchestration:** Argo workflows over an auto\\-scaled Kubernetes cluster
+* **Datastores:** Druid and postgresql
+* **Common ML libraries/tools:** TensorFlow/Keras, LightGBM, XGBooost, Pandas, Dask, Dash, Jupyter notebooks
+* **Model versioning and registry tool:** Mlflow
+* **Gitlab / Kubernetes** for CI/CD
+* **Prometheus/Grafana and Kibana** for operations
+
+### **Your profile**
+
+* Strong computer science **background in python**, with a keen interest for code quality and best practices (unit testing, pep8, typing)
+* Knowledge about at least one major deep learning framework, e.g. tensorflow, pytorch
+* A pragmatic, prod\\-oriented approach to ML: frequent, incremental gains beat a grand quest for perfection.
+
+### **What Would be a plus**
+
+* A first experience in a pricing\\-related domain
+* A wish to puruse a career in academia with a PHD following the internship
+
+**Our benefits**
+
+By joining us, you will integrate:
+
+* A self\\-financed startup with a strong technical identity!
+* Beautiful 700 m² offices in the heart of Paris (Bd Poissonnière)
+* Attractive remuneration
+* A caring and stimulating team that encourages skills development through initiative and autonomy
+* A learning environment with opportunities for evolution ‍
+
+
+You will also benefit from:
+
+* 1 day of remote work per week
+* A great company culture (monthly afterworks, regular meetings on technology and products, annual off\\-site seminars, team\\-building…
+
+### **Our Recruitment Process**
+
+* A screening Yacine, ML team lead
+
+
+* A technical test to be prepared
+
+
+* A last interview at our offices to discuss your technical test with the Hiring Manager and meet with members of the team
+
+
+
+Wiremind is committed to equality of opportunity, diversity, and fairness. We encourage all candidates with the necessary experience to apply for our job offers.","","https://fr.indeed.com/cmp/Wiremind","","http://www.wiremind.fr","Paris","11 to 50","","","","","","","",""
+"in-ad0eb19ce27e7216","indeed","https://fr.indeed.com/viewjob?jk=ad0eb19ce27e7216","https://careers.ornikar.com/jobs/6089616-staff-backend-ai-engineer","Staff Backend AI Engineer","Ornikar","Paris, A8, FR","2025-06-24","","","","","","",True,"","","","","### **À propos de l'équipe Tech ️**
+
+
+Vous rejoindrez l’équipe Tech d’Ornikar, au cœur de notre stratégie IA. Ensemble, nous concevons des produits utiles, intelligents et scalables, au service d’une mission à fort impact : rendre l’apprentissage de la conduite et l’accès à la mobilité plus simples, efficaces et accessibles.
+
+
+Constituée aujourd’hui de **60 talents tech** (Engineering Managers, Développeur·euse·s Front\\-end, Back\\-end et Fullstack, SRE, QA Engineers), l’équipe a pour mission de :
+
+* développer des features et produits innovants,
+* continuer à mettre en place les meilleures pratiques de développement,
+* assurer la résilience de nos applications dans cette phase de scale\\-up.
+* 
+
+
+Ce poste s’inscrit dans notre initiative **AI Enablement** : permettre à nos équipes tech de tirer le meilleur parti des technologies d’intelligence artificielle générative (LLMs, RAG…), tout en développant des fonctionnalités IA concrètes et à fort impact pour nos utilisateur·rice·s.
+
+### **Nous recherchons un·e Staff Backend AI Engineer**
+
+Nous recherchons un·e ingénieur·e backend expérimenté·e, capable de concevoir des architectures robustes tout en intégrant des capacités d’IA avancées. En tant que **Staff Backend AI Engineer**, vous jouerez un rôle de leadership technique transversal, en lien étroit avec les équipes Produit, Data, et Core, pour créer les fondations techniques qui permettront de tirer parti des LLMs (GPT, Mistral, Claude…) dans des cas d’usage concrets.
+
+### **Vos missions ️**
+
+* Concevoir et faire évoluer des systèmes backend **scalables et robustes**, avec un haut niveau d’exigence sur la **performance, la sécurité et la maintenabilité**.
+* Jouer un rôle moteur dans l’intégration de briques d’**IA générative** dans nos produits : **RAG**, génération automatique de code (build / run), aide à la QA etc
+* **Outiller les équipes internes** pour exploiter efficacement les capacités IA, via des APIs, SDKs ou services mutualisés.
+* Tirer parti de notre plateforme IA interne et des meilleurs providers externes (**OpenAI, Mistral, Google, Anthropic…**) pour enrichir nos services.
+* Favoriser l’adoption des **bonnes pratiques** de développement backend et IA (sécurité, éthique, performance, monitoring).
+* Partager votre expertise pour faire grandir les équipes (mentorat, peer reviews, ateliers internes…).
+* Contribuer à une **culture d’ingénierie exigeante mais pragmatique**, orientée qualité et impact.
+
+### **Le process de recrutement pour ce poste**
+
+* **Un premier échange téléphonique** avec Romane, notre Lead Talent Acquisition Manager (35 minutes). Cet entretien peut parfois être réalisé directement par votre futur·e manager.
+* **Un entretien avec votre futur manager,** notre CTO Joris**,** pour vous préciser les contours du poste et les enjeux de la team (1 heure).
+* **Une étude de cas ou test technique** pour vous projeter sur des missions du poste en conditions réelles avec nos Engineering Managers (1 heure).
+* **Un entretien de culture fit** avec les membres actuels de l'équipe pour vous donner un aperçu de nos rituels, méthodes, et vous embarquer dans notre vision ! (1 heure)
+  
+
+
+### **Nous sommes votre entreprise idéale si vous recherchez**
+
+* Une start\\-up française devenue scale\\-up qui se structure, développe de nouveaux produits
+* Une vision nouvelle et innovante qui dépoussière le secteur de l'assurance
+* Un leadership inspirant et expert du secteur
+* L'agilité d'une structure à taille humaine, et la place pour des initiatives innovantes et créatives
+
+### **Vous êtes notre candidat·e idéal·e si..****.**
+
+* Vous justifiez d’au moins **5 ans d’expérience en ingénierie backend**, idéalement sur des stacks **PHP** et/ou **Node.js**
+* Vous avez une solide culture en **architecture logicielle** : **APIs**, **microservices**, **design patterns**, **observabilité**…
+* Vous maîtrisez les enjeux de **scalabilité**, de **performance** et de **sécurité** en environnement de production
+* Vous avez une expérience concrète avec les **LLMs** (OpenAI, Mistral, Claude…) , **frameworks d’orchestration IA, et une grande curiosité / envie de R\\&D**
+* Vous êtes à l’aise avec les **architectures RAG**, les approches **embedding/reranking**, et les cas d’usage mêlant recherche et génération
+* Vous avez déjà travaillé avec les **services cloud**, notamment **GCP**, et savez en tirer parti pour concevoir des systèmes robustes et efficients
+* Vous contribuez activement à la **diffusion des bonnes pratiques** (revues de code, partage d’expertise, mentoring…) au sein d’un collectif d’ingénierie, en lien avec les **chapters backend**
+* Vous aimez construire des **fondations durables**, partager votre vision, et travailler dans une culture orientée **impact et qualité, collaboration et communication, impact et entraide.**
+
+### **Parmi nos avantages**
+
+* 1 jour de RTT par mois en plus des 25 jours de congés légaux
+* Notre charte de télétravail hybride (1 jour de télétravail par semaine).
+* Une carte Swile qui vous permettra à la fois de bénéficier de 11€/jour de tickets restaurant pris en charge à 50% par Ornikar, et de 42€/mois de remboursement transport pris en charge à 100% par Ornikar
+* Un abonnement sport et bien\\-être Gymlib
+* Une assurance santé complémentaire avec Alan
+* La possibilité de passer votre permis gratuitement
+* Des centaines de réductions et avantages via Leeto, partenaire de notre Comité Social Économique
+* L'accès à notre plateforme éducative Edflex pour continuer à vous former en parallèle de votre activité chez nous
+
+### 
+
+### **Et si vous nous rejoignez en remote**
+
+* Une carte de dépenses Spendesk pour assurer vos déplacements et nuits d'hôtels lors de vos séjours au bureau à Paris
+* La prise en charge de la carte SNCF Liberté utilisable pour vos déplacements personnels également
+
+  
+
+Nous prônons un recrutement inclusif chez Ornikar, garantissant l'égalité des chances pour toutes et tous. Tout comme notre permis de conduire accessible à tout le monde, nous sommes convaincus que la diversité et la complémentarité de nos équipes sont la clé de notre réussite. Ainsi, nous remettons constamment en question nos pratiques de recrutement. Tous nos managers sont formés pour éviter les biais inconscients et utilisent une méthode d'entretiens structurés basée sur une évaluation objective des candidats.
+
+
+Nous appelons toutes les femmes, même si elles ne cochent pas tous les critères, à postuler avec confiance. *Chaque candidature est considérée avec la même attention, sans distinction. Nous nous engageons particulièrement à créer un environnement de travail accueillant pour les femmes dans nos équipes tech.* Nous valorisons les parcours atypiques et les compétences diversifiées. Votre talent et votre potentiel sont ce qui compte le plus pour nous. Rejoignez\\-nous et contribuez à façonner l'avenir chez Ornikar.
+
+
+De même, si vous avez besoin d'un **dispositif spécial à l'emploi** ou d'une **autorisation de travail** sur le territoire français, faites\\-nous en part le plus rapidement possible pendant le processus de recrutement pour que les démarches administratives ne ralentissent pas votre arrivée chez nous.","","https://fr.indeed.com/cmp/Ornikar","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/ddf7eb21630ffbe4a4bb8044ca7daa18","http://www.ornikar.com","Paris","51 to 200","","Ornikar est le leader de l’éducation routière en France, avec plus d’un million de candidats et un réseau national de plus de 850 Enseignants de la conduite partenaires.","","","","","",""
+"in-b7dd3c90681cd689","indeed","https://fr.indeed.com/viewjob?jk=b7dd3c90681cd689","https://jobs.lever.co/lifen/106f1c3a-0e06-4673-a4c8-b4340def8f98?lever-source=Indeed","Machine Learning Engineer - F/H/N","Lifen","Paris, A8, FR","2025-06-23","","","","","","",False,"","","","","Le numérique en santé est une nécessité face aux défis du système des soins. Il ouvre la voie à des avancées significatives pour la recherche, les diagnostics et le suivi des patients.  
+
+  
+
+**Chez Lifen** **\\\\uD83E\\\\uDE7A** nous nous engageons auprès des professionnels de santé pour relever ce défi grâce à une expertise en intelligence artificielle couplée à l'obsession de l'impact terrain. **Depuis 2015,** nous développons, pas à pas, une infrastructure permettant aux professionnels de santé de s'appuyer sur les bonnes données au bon moment pour chaque patient.  
+
+  
+
+Aujourd'hui, plus de 800 hôpitaux et 20 000 professionnels de santé libéraux utilisent nos solutions pour réduire la charge administrative, personnaliser le soin et accélérer la recherche clinique. À leurs côtés, nous sommes 160 Lifeners passionnés \\\\uD83D\\\\uDC69‍\\\\uD83D\\\\uDE80\\\\uD83E\\\\uDDD1‍\\\\uD83D\\\\uDCBB qui **nous engageons à innover sans relâche pour construire un monde en meilleure santé.**  
+
+Rejoignez\\-nous !  
+
+  
+
+**L'équipe Machine Learning**  
+
+Fournissant quotidiennement plus d'un million de prédictions en temps réel à notre base d'utilisateurs, l'équipe IA a joué un rôle déterminant dans le lancement de notre produit phare, Lifen Document, qui facilite l'échange de comptes rendus médicaux entre praticiens de santé en France. Au cours des 6 dernières années passées à traiter des données médicales, notre équipe a acquis une solide expertise dans la construction de modèles robustes qui apportent une valeur ajoutée à nos utilisateurs en accélérant les charges de travail administratives laborieuses et intensives, avec des normes élevées en termes de sécurité.  
+
+  
+
+Notre équipe actuelle (4 ML Engineers et 1 Manager IA) construit des modèles de pré\\-traitement des documents, notamment d'extraction de layout, des outils internes d'explainable AI et de labélisation, des algorithmes de pseudonymisation pour pouvoir travailler sur des algorithmes sans exposer des données médicales privées, et enfin des algorithmes de NLP pour structurer les documents médicaux (Classification, NER, etc.).  
+
+Nous utilisons aussi des LLMs fine tunés en production pour des taches d'extraction de données médicales.  
+
+Lifen investit aujourd'hui dans une nouvelle offre destinée aux organismes de santé et aux partenaires de recherches universitaires et industriels, qui s'appuiera sur notre expertise dans le traitement des documents médicaux, pour structurer des données de qualité dans le monde réel, à partir des rapports médicaux traités par Lifen : Lifen Data Lab.  
+
+  
+
+Nous sommes à la recherche d'un·e ML Engineer junior pour agrandir l'équipe, afin de contribuer à l'amélioration de nos algorithmes existants et d'en développer de nouveaux pour nos nouveaux produits. **Vos futures missions en tant que Machine Learning Engineer**  
+
+Chez Lifen, nous avons une définition assez large du Machine Learning, qui englobe le cycle de vie complet des algorithmes : du POC à l'intégration dans notre écosystème tech, la production et la maintenance, tout en adhérant aux meilleures pratiques de software engineering.
+Tu seras directement impliqué·e dans le développement de code en production, sans mener uniquement expériences isolées sur des notebooks.
+Ce que tu feras au quotidien :* Adapter les algorithmes existants à de nouveaux problèmes et développer des solutions si nécessaire ;
+* Assurer la performance de nos modèles de base en participant à leur maintenance régulière pour répondre aux besoins du produit ;
+* Contribuer à notre infrastructure en ML en développant de nouvelles fonctionnalités, facilitant ainsi la production et l'évaluation des modèles.
+
+  
+
+**Le profil que nous recherchons*** **️ Software Engineering:** tu possèdes un état d'esprit software engineer et une maîtrise de Python et de l'écosystème (Poetry, Mypy, FastAPI, Pydantic, ...) ;
+
+
+**Machine Learning:** tu as **1 à 2 ans d'expérience** avec des outils comme Pytorch, Huggingface, Tensorflow/Keras, et de l'expérience avec des LLMs (APIs, open source, ...)* ️ **DevOps \\& Orchestration** : Tu es à l'aise avec les concepts de production \\& d'intégration continue (Git, Docker, CI/CD, Monitoring, etc.) et de pipelines (Kubeflow, Airflow, etc.)
+
+
+Tu disposes déjà d'une première expérience dans le déploiement de pipelines d'apprentissage automatique dans des contextes de production, de la collecte de données à l'évaluation de modèles ;
+En général, tu as une bonne compréhension du domaine NLP ;
+Excellentes capacités de communication, autonomie, adaptabilité, souci du détail et esprit d'équipe ;
+Maitrise du français et de l'anglais ;
+Si tu avez as connaissances dans le domaine de la santé, c'est la cerise sur le gâteau. **Pourquoi nous rejoindre ?**  
+
+ Un impact direct auprès de 15 000 pros de santé et sur la transformation numérique des hôpitaux privés.
+ Une équipe IA solidaire, ambitieuse et bienveillante.
+ Beaucoup d’autonomie pour piloter tes projets.
+ De vraies perspectives d’évolution dans une scale\\-up en pleine croissance. **Ce que Lifen t’offre**  
+
+Mode de travail hybride : Commuter (2 jours/semaine au bureau)
+️ Carte Swile avec 9€/jour avec prise en charge employeur de 50%.
+Mutuelle santé incluant médecine alternative et soutien en santé mentale prise en charge à 50%.
+30€/mois pour des concerts, abonnements deezer…
+BSPCE pour tous les employés permanents.
+Des perspectives d'évolutions dans une scale up.
+‍‍‍ Prise en charge à 100% du congé maternité et parental \\- 5 jours enfants malades par an.
+1 offsite par semestre et par équipe \\- 1 offsite global Lifen par an \\- Monthly d'entreprise.
+Politique de rémunération transparente et graduelle. **Prêt·e à relever le défi et à laisser ta marque chez Lifen ? N’hésite pas à postuler !**
+**Notre processus de recrutement**  
+
+* Entretien RH avec Héloïse, HRBP ;
+* Entretien avec Jean\\-Charles, Manager IA ;
+* Test technique à préparer à la maison et à venir discuter avec l'équipe, dans nos locaux ;
+* Prise de références.
+
+  
+
+*Soigner mieux en soignant ensemble, c'est aussi agir avec bienveillance. À l'image du secteur dans lequel nous évoluons, nous favorisons la diversité, l'inclusion et l'équité. Nous mettons en valeur vos compétences et votre savoir\\-faire, et bannissons toute forme de discrimination, qu'elle soit sexuelle, religieuse ou politique.*","","https://fr.indeed.com/cmp/Lifen","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/84ebc11b023be7cc41a1f687ad3f77fe","http://www.honestica.com","Paris","11 to 50","less than $1M (USD)","","","","","","",""
+"in-62958c9ddfe8692b","indeed","https://fr.indeed.com/viewjob?jk=62958c9ddfe8692b","https://sii-group.com/fr-FR/offers/data/ai-lm-engineer","AI / LM Engineer","Groupe SII","Lille, HDF, FR","2025-06-23","","","","","","",False,"","","","","Vous êtes un(e) Ingénieur IA ou Data Scientist aguerri(e), passionné(e) par l’intelligence artificielle et les grands modèles de langage (LLM) ? Vous avez déjà mis en œuvre des solutions LLM, RAG et vous souhaitez aller plus loin dans la conception d’architectures IA innovantes ?
+
+
+Chez **SII Nord** , nous cherchons un(e) expert(e) technique pour rejoindre notre pôle Dat/IA, partager son savoir\\-faire auprès de nos clients, et piloter des projets d’innovation stratégiques au sein du Groupe SII.  
+
+
+
+**Votre quotidien chez nous :**
+
+Chez SII, vous ne serez pas qu’un(e) ingénieur(e) IA ou qu’un(e) data scientist : vous serez un véritable **architecte de solutions IA** . Vous interviendrez à la fois :
+
+
+* **En mission chez nos clients** , en accompagnement stratégique et opérationnel sur des projets IA à forte valeur ajoutée.
+* **Au sein du Groupe** , pour contribuer activement au **déploiement de l’IA** dans les activités du groupe SII (IA pour les opérations, industrialisation de cas d’usage, veille technologique, evangélisation…).
+* **En pilotage d’un projet d’innovation IA** , où vous serez moteur dans l’expérimentation et le développement de POCs autour des LLMs, RAGs, modèles open source, IA embarquée, etc.
+
+**Exemples de missions qui pourraient vous attendre :**
+
+* Mise en place de solutions RAG locales (open\\-source, self\\-hosted).
+* Conception d’architectures d’intégration de LLMs (API vs modèle local, stockage vectoriel, pipelines de traitement).
+* Accompagnement des équipes client dans leur mise en oeuvre IA :audit, choix techno, conception, industrialisation.
+Encadrement technique et diffusion des bonnes pratiques IA (MLOps, gouvernance des modèles, observabilité).  
+* 
+
+**Environnement technique :**
+
+Python (et ses librairies IA/ML), plateformes cloud (AWS, GCP, Azure), FastAPI, LangChain, LlamaIndex, HuggingFace, Docker, Git, CI/CD, PostgreSQL / ElasticSearch / Qdrant / Milvus, GPU, VSCode, Linux, Jupyter, etc.  
+
+
+
+**Le profil que nous recherchons :**
+
+* Bac\\+5 en informatique, data science, développement ou domaine connexe.
+* Expérience confirmée (4\\+ ans) en Data Science **et/ou** en développement full\\-stack sur projets IA.
+* Maîtrise de la mise en production de modèles IA / LLM, notamment en local.
+* Forte appétence pour la conception technique et les solutions scalables.
+* Capacité à **travailler en autonomie** , à piloter un projet, à vulgariser et à transmettre son savoir.
+Une expérience dans le monde du conseil est un plus, mais pas obligatoire.  
+* 
+
+**Pourquoi rejoindre SII Nord ?**
+
+Parce que nous ne cherchons pas juste des profils, mais des personnalités. Vous serez :
+
+
+* Accompagné(e) par une équipe dédiée : RH, Manager de carrière, Assistant Administratif et Commercial.
+* Acteur(rice) de votre évolution : formations, conférences, participation à des groupes de veille et d’innovation.
+* Libre de télétravailler jusqu’à 50 % selon mission.
+* Intégré(e) à une **communauté technique vivante** , avec des meetups, afterworks, événements internes, etc.
+
+Nos avantages ? RTT, carte tickets resto, mutuelle famille, CSE, prime vélo, mobilité interne, ambiance bienveillante… et surtout, la liberté de proposer, d’expérimenter et de créer.  
+
+
+
+**SII Nord – Let’s tech together !**
+
+Construisons ensemble l’IA de demain.
+
+
+Prêt·e à transformer l’industrie avec de l’IA responsable, utile et innovante ?
+
+
+Envoyez\\-nous votre CV et quelques lignes sur ce qui vous motive !  
+
+
+
+*Le Groupe SII est une société d’ingénierie et de conseils en technologies (ICT) est une entreprise de services numériques (ESN). Nous sommes au cœur de l'innovation au service de grands comptes dans des secteurs d'ingénierie variés. Le groupe SII fait travailler plus de 16 000 personnes dans 21 pays.*
+
+*En 2025, pour la 8ème année consécutive, SII France a obtenu le label Great Place To Work® et s'est hissée à la 2ème place du podium des Best WorkPlaces dans la catégorie des entreprises de plus de 2500 salariés. Nous sommes très fiers d’obtenir cette reconnaissance de nos salariés ! Ce succès est le reflet de notre culture basée sur notre volonté de proposer à tous nos collaborateurs un cadre de travail épanouissant pour le développement de leurs compétences et carrières. En tant que société à fortes valeurs humaines, nous sommes signataires de la Charte de la diversité, de la Charte d’engagement LGBT\\+ avec l’Association L'Autre Cercle et sommes une entreprise handi\\-accueillante.*
+
+
+  
+Compétences requises
+Python","","https://fr.indeed.com/cmp/Groupe-Sii","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/620b1e993c08160c247b976b2a3c402f","https://www.sii-group.com","Paris","10,000+","$500M to $1B (USD)","Le Groupe SII est au cœur de l’innovation au service de grands comptes dans des secteurs d’ingénierie variés.","","","","","",""
+"in-3551fd1344dfae3b","indeed","https://fr.indeed.com/viewjob?jk=3551fd1344dfae3b","https://emploi.isagri.fr/offre/developpeur-devops-confirme-hf/471be46dec40447685e7f63e60f88d32","Développeur DevOps confirmé H/F","ISAGRI","Beauvais, HDF, FR","2025-06-21","","","","","","",False,"","","","","Certifiée au classement Great Place To Work pour la 9ème année consécutive avec une croissance continue de 50% tous les 4 ans. Ce qui nous rend vraiment très fiers, c'est d'avoir su écrire une success story où chaque collaborateur est acteur du développement de l'entreprise et aussi de sa propre évolution ! Rejoignez ISAGRI pour partager le progrès, cultiver l'ambition et révéler votre talent dans une entreprise où nous prenons plaisir à travailler, en toute simplicité !
+
+
+
+### **Missions**
+
+
+Tu rejoindras l’équipe DevOps de la filière “Gestion Commerciale” et contribueras à l’ensemble de la chaîne de delivery pour notre logiciel de gestion commerciale.
+
+Dans ce contexte, tes responsabilités seront les suivantes :
+  
+
+* Industrialiser et maintenir des pipelines CI/CD (Azure DevOps) robustes, couvrant le build, les tests, le packaging et le déploiement multi\\-projets.
+* Automatiser et fiabiliser les déploiements applicatifs avec Digital.ai Release, Digital.ai Deploy, etc.
+* Garantir l'intégrité et la sécurité de chaque étape du cycle de vie du développement logiciel (SDLC), notamment pour l’intégration, le déploiement et la maintenance.
+* Administrer et superviser les environnements de test applicatifs (VMs dédiées), en assurant leur disponibilité, leur cohérence avec la production et leur compatibilité avec les cycles de développement.
+* Administrer et superviser les environnements de build, composés de plusieurs agents auto\\-hébergés.
+* Accompagner les équipes de développement : configuration des environnements, création de pipelines, support sur les outils de versioning, packaging et déploiement.
+* Diffuser les bonnes pratiques DevOps (versioning, intégration continue, delivery, monitoring) et contribuer activement à l’amélioration continue des outils et processus internes.
+* Diagnostiquer et participer à la résolution des incidents techniques en production, en collaboration avec les équipes de développement et de support.
+
+
+Tu évolueras dans un écosystème orienté Microsoft avec une architecture applicative hybride (desktop \\& web) et une forte exigence sur la qualité et l’industrialisation des livraisons.  
+
+Les stacks :  
+
+* Langages \\& Frameworks : C\\# / .NET Core, Entity Framework, WPF (desktop), Angular.js (web)
+* Base de données : SQL Server
+* CI/CD \\& déploiement : Azure DevOps (pipelines YAML), Git, Digital.ai Release, Digital.ai Deploy, Artifactory, SonarQube
+* Infrastructure de test : environnements de validation déployés sur VMs Windows et AKS
+* Build \\& Packaging : pipelines multi\\-projets, avec agents auto\\-hébergés sur VMs Windows et Linux
+* Monitoring \\& supervision : Grafana, Zabbix
+
+
+
+
+### **Profil**
+
+
+* Tu justifies de 3 à 5 ans d’expérience minimum dans un rôle DevOps, idéalement en environnement Microsoft (Azure)
+* Tu maîtrises la configuration et le maintien de pipelines CI/CD, avec une gestion fine des artefacts et des dépendances
+* Tu es à l’aise avec l’administration et la supervision d’environnements Windows
+* Tu as de solides bases en développement, notamment :
+
+
+
+o Une bonne connaissance de C\\#, te permettant de comprendre le code de la solution principale  
+
+o Une maîtrise du scripting (PowerShell, Bash...), pour automatiser les déploiements, configurations ou tâches d’administration
+
+
+* Tu maîtrises Git et les bonnes pratiques de gestion de branches (Git flow, feature branching, etc.)
+* Tu sais gérer les priorités et faire face aux sollicitations multiples, avec rigueur, méthode et autonomie
+* Tu as un bon relationnel et tu sais fédérer autour des bonnes pratiques DevOps
+* Bonus appréciés : connaissance de Docker, Kubernetes, des API (REST, gateway, routage, API management…) et des environnements Unix (Linux/macOS)
+
+
+
+
+
+### **Évolutions**
+
+
+La politique RH d’investissement auprès de nos collaborateurs vous garantit un accompagnement régulier pour vous faire progresser et évoluer vers de nouvelles missions en fonction de votre projet. Vous aurez en outre un accès à Plural Sight pour un large panel de formation technique.
+
+Rejoindre notre groupe, c’est la garantie d’une formation continue, d’un plan de carrière personnalisé et d’un management de proximité. Selon votre profil et vos aspirations, vous pourrez évoluer vers :
+
+
+* Le management d'une équipe de Développeurs (Scrum Master, Release Train Engineer…)
+* L'expertise technique (Tech Lead , Architecte …).
+
+
+
+
+
+### **Conditions proposées**
+
+
+Poste en CDI basé à Beauvais à pourvoir dès que possible.  
+
+Rémunération : Fixe \\- Variable \\- Intéressement \\- Participation.  
+
+Télétravail possible jusqu’à 2jrs/semaine
+
+Dans le cadre de sa politique RH, ISAGRI étudie, à compétences égales, toutes candidatures dont celles de personnes en situation de handicap.","","https://fr.indeed.com/cmp/Isagri","https://d2q79iu7y748jz.cloudfront.net/s/_squarelogo/256x256/5a3e72f8874e344de237d2ac4b3c6278","http://www.emploi.isagri.fr/","","1,001 to 5,000","$100M to $500M (USD)","Editeur de logiciels, des CDI sont à pourvoir à Beauvais et partout en France. ISAGRI c'est 87 métiers dont le commerce et l'informatique !","","","","","",""
+"li-4267883917","linkedin","https://www.linkedin.com/jobs/view/4267883917","","Growth Engineer Intern","Brevo","Paris, Île-de-France, France","2025-07-19","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/brevo","","","","","","","","","","","",""
+"li-4268614978","linkedin","https://www.linkedin.com/jobs/view/4268614978","","ML Scientist for Chemisty","Entalpic","Paris, Île-de-France, France","2025-07-17","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/entalpic","","","","","","","","","","","",""
+"li-4268192322","linkedin","https://www.linkedin.com/jobs/view/4268192322","","Machine Learning Engineer Intern","Criteo","Paris, Île-de-France, France","2025-07-17","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/criteo","","","","","","","","","","","",""
+"li-4212328864","linkedin","https://www.linkedin.com/jobs/view/4212328864","","Data Scientist H/F – contrat d’alternance","MSD France","Paris, Île-de-France, France","2025-07-17","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/msd-france","","","","","","","","","","","",""
+"li-4268605339","linkedin","https://www.linkedin.com/jobs/view/4268605339","","Machine Learning Engineer - Internship (6 months) - September, 2025","Prose","Paris, Île-de-France, France","2025-07-17","","","","","","",False,"","","","","","","https://www.linkedin.com/company/hairprose","","","","","","","","","","","",""
+"li-4268207226","linkedin","https://www.linkedin.com/jobs/view/4268207226","","SOFTWARE ENGINEER INTERN (M/F/D)","STATION F","Paris, Île-de-France, France","2025-07-17","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/stationf","","","","","","","","","","","",""
+"li-4267021525","linkedin","https://www.linkedin.com/jobs/view/4267021525","","AI Engineer/Data Scientist Internship","Alphaguard","Paris, Île-de-France, France","2025-07-16","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/alphaguard-ai","","","","","","","","","","","",""
+"li-4267684330","linkedin","https://www.linkedin.com/jobs/view/4267684330","","Applied scientist intern","Rakuten","Paris, Île-de-France, France","2025-07-16","","","","","","",False,"","","","","","","https://jp.linkedin.com/company/rakuten","","","","","","","","","","","",""
+"li-4267022401","linkedin","https://www.linkedin.com/jobs/view/4267022401","","Back-End & Data Engineer [internship]","Vianova I/O","Paris, Île-de-France, France","2025-07-16","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/vianova-io","","","","","","","","","","","",""
+"li-4267018741","linkedin","https://www.linkedin.com/jobs/view/4267018741","","Front-end/Full-stack engineer Internship","Alphaguard","Paris, Île-de-France, France","2025-07-16","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/alphaguard-ai","","","","","","","","","","","",""
+"li-4266724282","linkedin","https://www.linkedin.com/jobs/view/4266724282","","Intern Data Scientist: International Trade Flows","QuantCube Technology","Paris, Île-de-France, France","2025-07-15","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/q3-technology","","","","","","","","","","","",""
+"li-4267366162","linkedin","https://www.linkedin.com/jobs/view/4267366162","","BACK-END & DATA ENGINEER [INTERNSHIP]","Le Village by CA Paris","Paris, Île-de-France, France","2025-07-15","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/le-village-by-ca","","","","","","","","","","","",""
+"li-4263000813","linkedin","https://www.linkedin.com/jobs/view/4263000813","","Applied AI Engineer, Use-case - Paris (Internship)","Mistral AI","Paris, Île-de-France, France","2025-07-11","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/mistralai","","","","","","","","","","","",""
+"li-4264716536","linkedin","https://www.linkedin.com/jobs/view/4264716536","","AI Engineer Intern – Product Support","SITA","Paris, Île-de-France, France","2025-07-09","","","","","","",False,"","","","","","","https://ch.linkedin.com/company/sita","","","","","","","","","","","",""
+"li-4254350157","linkedin","https://www.linkedin.com/jobs/view/4254350157","","ALTERNANCE - Software Engineer","AXA Group Operations","Paris, Île-de-France, France","2025-06-25","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/axa-group-operations","","","","","","","","","","","",""
+"li-4256037656","linkedin","https://www.linkedin.com/jobs/view/4256037656","","Data Engineer Intern (pour une durée de 3 à 6 mois, ASAP)","HONOR","Issy-les-Moulineaux, Île-de-France, France","2025-06-24","","","","","","",False,"","","","","","","https://cn.linkedin.com/company/hihonor","","","","","","","","","","","",""
+"li-4253667008","linkedin","https://www.linkedin.com/jobs/view/4253667008","","Data Scientist (Intern)","Metreecs (YC F24)","Paris, Île-de-France, France","2025-06-20","","","","","","",False,"","","","","","","https://www.linkedin.com/company/metreecs","","","","","","","","","","","",""
+"li-4079798154","linkedin","https://www.linkedin.com/jobs/view/4079798154","","Data Scientist: France","Shift Technology","Paris, Île-de-France, France","2025-06-20","","","","","","",False,"","","","","","","https://fr.linkedin.com/company/shift-technology","","","","","","","","","","","",""
+"li-4269980103","linkedin","https://www.linkedin.com/jobs/view/4269980103","","Research Scientist Intern","GenBio AI","Paris, Île-de-France, France","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/genbioai","","","","","","","","","","","",""
+"li-4269978425","linkedin","https://www.linkedin.com/jobs/view/4269978425","","Research Engineer Intern","GenBio AI","Paris, Île-de-France, France","","","","","","","",False,"","","","","","","https://www.linkedin.com/company/genbioai","","","","","","","","","","","",""

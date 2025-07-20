@@ -10,6 +10,16 @@ def process_jobs(jobs: pd.DataFrame) -> str:
     # nan means 0 days
     jobs["days_since_posted"] = jobs["days_since_posted"].fillna(0).astype(int)
 
+    # Filter for internship jobs only (case insensitive)
+    internship_mask = jobs["title"].str.contains("intern|stage|stagiaire", case=False, na=False, regex=True)
+    jobs = jobs[internship_mask]
+
+    # Remove duplicate jobs with same title and company (case insensitive)
+    jobs["title_lower"] = jobs["title"].str.lower()
+    jobs["company_lower"] = jobs["company"].str.lower()
+    jobs = jobs.drop_duplicates(subset=["title_lower", "company_lower"], keep="first")
+    jobs = jobs.drop(columns=["title_lower", "company_lower"])
+
     # Replace job_url with GitHub-compatible button badges
     jobs["apply"] = jobs["job_url"].apply(
         lambda url: f'[![Apply](https://img.shields.io/badge/Apply-brightgreen)]({url})' 
