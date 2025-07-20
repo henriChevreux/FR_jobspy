@@ -4,7 +4,7 @@ This repository automatically scrapes AI internship and engineer positions from 
 
 ## Latest Job Opportunities
 
-*Last updated: 2025-07-20 15:15:26 UTC*
+*Last updated: 2025-07-20 13:16:52 UTC*
 
 | title                                                               | company                | location                                   | job_type   | apply                                                                                                         |   days_since_posted |
 |:--------------------------------------------------------------------|:-----------------------|:-------------------------------------------|:-----------|:--------------------------------------------------------------------------------------------------------------|--------------------:|
