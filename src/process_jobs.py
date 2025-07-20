@@ -12,7 +12,7 @@ def process_jobs(jobs: pd.DataFrame) -> str:
 
     # Replace job_url with GitHub-compatible button badges
     jobs["apply"] = jobs["job_url"].apply(
-        lambda url: f'[![Apply](https://img.shields.io/badge/Apply-Now-brightgreen?style=for-the-badge)]({url})' 
+        lambda url: f'[![Apply](https://img.shields.io/badge/Apply-brightgreen)]({url})' 
         if pd.notna(url) else "N/A"
     )
 
