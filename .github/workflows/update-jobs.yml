@@ -11,6 +11,9 @@ on:
       - 'src/**'
       - '.github/workflows/update-jobs.yml'
 
+permissions:
+  contents: write
+
 jobs:
   update-jobs:
     runs-on: ubuntu-latest
