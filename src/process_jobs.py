@@ -10,9 +10,9 @@ def process_jobs(jobs: pd.DataFrame) -> str:
     # nan means 0 days
     jobs["days_since_posted"] = jobs["days_since_posted"].fillna(0).astype(int)
 
-    # Replace job_url with actual HTML buttons
+    # Replace job_url with GitHub-compatible button badges
     jobs["apply"] = jobs["job_url"].apply(
-        lambda url: f'<a href="{url}" target="_blank"><button style="background-color: #4CAF50; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer; font-size: 12px;">Apply</button></a>' 
+        lambda url: f'[![Apply](https://img.shields.io/badge/Apply-Now-brightgreen?style=for-the-badge)]({url})' 
         if pd.notna(url) else "N/A"
     )
 
