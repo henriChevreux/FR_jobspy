@@ -10,6 +10,12 @@ def process_jobs(jobs: pd.DataFrame) -> str:
     # nan means 0 days
     jobs["days_since_posted"] = jobs["days_since_posted"].fillna(0).astype(int)
 
-    core_columns = ["title", "company", "location", "job_type", "job_url", "days_since_posted"]
+    # Replace job_url with actual HTML buttons
+    jobs["apply"] = jobs["job_url"].apply(
+        lambda url: f'<a href="{url}" target="_blank"><button style="background-color: #4CAF50; color: white; padding: 8px 16px; border: none; border-radius: 4px; cursor: pointer; font-size: 12px;">Apply</button></a>' 
+        if pd.notna(url) else "N/A"
+    )
+
+    core_columns = ["title", "company", "location", "job_type", "apply", "days_since_posted"]
     md_table = jobs[core_columns].to_markdown(index=False)
     return md_table

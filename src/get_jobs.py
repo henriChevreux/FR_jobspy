@@ -6,7 +6,7 @@ def get_jobs():
     """
     jobs = scrape_jobs(
         site_name=["indeed", "linkedin", "glassdoor", "google", "naukri"],
-        search_term='AI (scientist OR engineer) intern -India',
+        search_term='AI (scientist OR engineer) intern -India -Senior',
         google_search_term="AI engineer internship jobs near Paris, France since last month",
         location="Paris, France",
         results_wanted=50,
