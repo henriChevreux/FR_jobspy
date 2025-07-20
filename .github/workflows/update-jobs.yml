@@ -26,15 +26,26 @@ jobs:
       with:
         python-version: '3.11'
     
+    - name: Install system dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y chromium-browser chromium-chromedriver
+    
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt
+        pip list  # Debug: show installed packages
+    
+    - name: Verify jobspy installation
+      run: |
+        python -c "import jobspy; print('jobspy version:', jobspy.__version__)"
+        python -c "import pandas; print('pandas version:', pandas.__version__)"
+        python -c "import tabulate; print('tabulate version:', tabulate.__version__)"
     
     - name: Run job scraper
       run: |
-        cd src
-        python main.py
+        python src/main.py
     
     - name: Check for changes
       id: git-check
