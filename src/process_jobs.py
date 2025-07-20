@@ -16,6 +16,9 @@ def process_jobs(jobs: pd.DataFrame) -> str:
         if pd.notna(url) else "N/A"
     )
 
+    # Sort by days_since_posted with most recent first (ascending order)
+    jobs = jobs.sort_values("days_since_posted", ascending=True)
+
     core_columns = ["title", "company", "location", "job_type", "apply", "days_since_posted"]
     md_table = jobs[core_columns].to_markdown(index=False)
     return md_table
