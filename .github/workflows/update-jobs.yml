@@ -47,8 +47,8 @@ jobs:
     - name: Commit and push if changed
       if: steps.git-check.outputs.changed == 'true'
       run: |
-        git config --local user.email "henri.chevreux1@gmail.com"
-        git config --local user.name "Henri Chevreux"
+        git config --local user.name ${{ secrets.GIT_USER_NAME }}
+        git config --local user.email ${{ secrets.GIT_USER_EMAIL }}
         git add README.md
         git commit -m "Update job listings - $(date '+%Y-%m-%d %H:%M:%S')"
         git push 
